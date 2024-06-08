@@ -52,7 +52,7 @@ if(isset($_GET['delete_all'])){
 
    <h3 class="heading">your wishlist</h3>
 
-   <div class=" hello">
+   <div class=" hello hasklasas">
 <!-- hello hi again -->
    <?php
       $grand_total = 0;
