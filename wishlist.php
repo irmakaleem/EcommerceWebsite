@@ -41,6 +41,8 @@ if(isset($_GET['delete_all'])){
    <!-- custom css file link  -->
    <link rel="stylesheet" href="css/style.css">
 
+   <!-- hi here is omer -->
+
 </head>
 <body>
    
