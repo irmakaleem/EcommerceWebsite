@@ -53,7 +53,7 @@ if(isset($_GET['delete_all'])){
    <h3 class="heading">your wishlist</h3>
 
    <div class="box-container">
-
+<!-- hello hi again -->
    <?php
       $grand_total = 0;
       $select_wishlist = $conn->prepare("SELECT * FROM `wishlist` WHERE user_id = ?");
